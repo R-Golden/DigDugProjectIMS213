@@ -1,5 +1,16 @@
 {
   "resources": [
+    {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":2,},
+    {"id":{"name":"Generator","path":"objects/Generator/Generator.yy",},"order":0,},
+    {"id":{"name":"GroundOne","path":"objects/GroundOne/GroundOne.yy",},"order":1,},
+    {"id":{"name":"Boulder","path":"objects/Boulder/Boulder.yy",},"order":3,},
+    {"id":{"name":"BoulderSpawn","path":"scripts/BoulderSpawn/BoulderSpawn.yy",},"order":1,},
+    {"id":{"name":"SPRPlayer","path":"sprites/SPRPlayer/SPRPlayer.yy",},"order":1,},
+    {"id":{"name":"SPRGround","path":"sprites/SPRGround/SPRGround.yy",},"order":0,},
+    {"id":{"name":"SPREnemy","path":"sprites/SPREnemy/SPREnemy.yy",},"order":3,},
+    {"id":{"name":"TwoDGenerator","path":"scripts/TwoDGenerator/TwoDGenerator.yy",},"order":0,},
+    {"id":{"name":"SPRBoulder","path":"sprites/SPRBoulder/SPRBoulder.yy",},"order":2,},
+    {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

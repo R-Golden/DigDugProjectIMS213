@@ -1,0 +1,1 @@
+if(touched) y = boulderTouched.y;

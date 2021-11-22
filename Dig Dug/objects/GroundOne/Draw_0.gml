@@ -1,0 +1,1 @@
+if(!marked) draw_self();
